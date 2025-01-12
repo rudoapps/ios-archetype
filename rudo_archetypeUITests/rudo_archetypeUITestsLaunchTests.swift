@@ -1,13 +1,13 @@
 //
-//  RudoUITestsLaunchTests.swift
-//  RudoUITests
+//  rudo_archetypeUITestsLaunchTests.swift
+//  rudo_archetypeUITests
 //
 //  Created by Fernando Salom Carratala on 12/1/25.
 //
 
 import XCTest
 
-final class RudoUITestsLaunchTests: XCTestCase {
+final class rudo_archetypeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

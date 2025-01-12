@@ -1,6 +1,6 @@
 //
 //  Item.swift
-//  Rudo
+//  rudo_archetype
 //
 //  Created by Fernando Salom Carratala on 12/1/25.
 //

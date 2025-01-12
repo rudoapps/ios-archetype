@@ -1,6 +1,6 @@
 //
-//  RudoApp.swift
-//  Rudo
+//  rudo_archetypeApp.swift
+//  rudo_archetype
 //
 //  Created by Fernando Salom Carratala on 12/1/25.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct RudoApp: App {
+struct rudo_archetypeApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,

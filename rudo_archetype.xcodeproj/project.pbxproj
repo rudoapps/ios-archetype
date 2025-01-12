@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		C10B95442D33E98F002764EB /* PBXContainerItemProxy */ = {
+		C10B957D2D33EA7A002764EB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C10B95282D33E98D002764EB /* Project object */;
+			containerPortal = C10B95612D33EA78002764EB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C10B952F2D33E98D002764EB;
-			remoteInfo = Rudo;
+			remoteGlobalIDString = C10B95682D33EA78002764EB;
+			remoteInfo = rudo_archetype;
 		};
-		C10B954E2D33E98F002764EB /* PBXContainerItemProxy */ = {
+		C10B95872D33EA7A002764EB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = C10B95282D33E98D002764EB /* Project object */;
+			containerPortal = C10B95612D33EA78002764EB /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = C10B952F2D33E98D002764EB;
-			remoteInfo = Rudo;
+			remoteGlobalIDString = C10B95682D33EA78002764EB;
+			remoteInfo = rudo_archetype;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C10B95302D33E98D002764EB /* Rudo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rudo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C10B95432D33E98F002764EB /* RudoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RudoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C10B954D2D33E98F002764EB /* RudoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RudoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C10B95692D33EA78002764EB /* rudo_archetype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rudo_archetype.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C10B957C2D33EA7A002764EB /* rudo_archetypeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rudo_archetypeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C10B95862D33EA7A002764EB /* rudo_archetypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rudo_archetypeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		C10B95322D33E98D002764EB /* Rudo */ = {
+		C10B956B2D33EA78002764EB /* rudo_archetype */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Rudo;
+			path = rudo_archetype;
 			sourceTree = "<group>";
 		};
-		C10B95462D33E98F002764EB /* RudoTests */ = {
+		C10B957F2D33EA7A002764EB /* rudo_archetypeTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RudoTests;
+			path = rudo_archetypeTests;
 			sourceTree = "<group>";
 		};
-		C10B95502D33E98F002764EB /* RudoUITests */ = {
+		C10B95892D33EA7A002764EB /* rudo_archetypeUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RudoUITests;
+			path = rudo_archetypeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C10B952D2D33E98D002764EB /* Frameworks */ = {
+		C10B95662D33EA78002764EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B95402D33E98F002764EB /* Frameworks */ = {
+		C10B95792D33EA7A002764EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B954A2D33E98F002764EB /* Frameworks */ = {
+		C10B95832D33EA7A002764EB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C10B95272D33E98D002764EB = {
+		C10B95602D33EA78002764EB = {
 			isa = PBXGroup;
 			children = (
-				C10B95322D33E98D002764EB /* Rudo */,
-				C10B95462D33E98F002764EB /* RudoTests */,
-				C10B95502D33E98F002764EB /* RudoUITests */,
-				C10B95312D33E98D002764EB /* Products */,
+				C10B956B2D33EA78002764EB /* rudo_archetype */,
+				C10B957F2D33EA7A002764EB /* rudo_archetypeTests */,
+				C10B95892D33EA7A002764EB /* rudo_archetypeUITests */,
+				C10B956A2D33EA78002764EB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C10B95312D33E98D002764EB /* Products */ = {
+		C10B956A2D33EA78002764EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C10B95302D33E98D002764EB /* Rudo.app */,
-				C10B95432D33E98F002764EB /* RudoTests.xctest */,
-				C10B954D2D33E98F002764EB /* RudoUITests.xctest */,
+				C10B95692D33EA78002764EB /* rudo_archetype.app */,
+				C10B957C2D33EA7A002764EB /* rudo_archetypeTests.xctest */,
+				C10B95862D33EA7A002764EB /* rudo_archetypeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C10B952F2D33E98D002764EB /* Rudo */ = {
+		C10B95682D33EA78002764EB /* rudo_archetype */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C10B95572D33E98F002764EB /* Build configuration list for PBXNativeTarget "Rudo" */;
+			buildConfigurationList = C10B95902D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetype" */;
 			buildPhases = (
-				C10B952C2D33E98D002764EB /* Sources */,
-				C10B952D2D33E98D002764EB /* Frameworks */,
-				C10B952E2D33E98D002764EB /* Resources */,
+				C10B95652D33EA78002764EB /* Sources */,
+				C10B95662D33EA78002764EB /* Frameworks */,
+				C10B95672D33EA78002764EB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				C10B95322D33E98D002764EB /* Rudo */,
+				C10B956B2D33EA78002764EB /* rudo_archetype */,
 			);
-			name = Rudo;
+			name = rudo_archetype;
 			packageProductDependencies = (
 			);
-			productName = Rudo;
-			productReference = C10B95302D33E98D002764EB /* Rudo.app */;
+			productName = rudo_archetype;
+			productReference = C10B95692D33EA78002764EB /* rudo_archetype.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C10B95422D33E98F002764EB /* RudoTests */ = {
+		C10B957B2D33EA7A002764EB /* rudo_archetypeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C10B955A2D33E98F002764EB /* Build configuration list for PBXNativeTarget "RudoTests" */;
+			buildConfigurationList = C10B95932D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetypeTests" */;
 			buildPhases = (
-				C10B953F2D33E98F002764EB /* Sources */,
-				C10B95402D33E98F002764EB /* Frameworks */,
-				C10B95412D33E98F002764EB /* Resources */,
+				C10B95782D33EA7A002764EB /* Sources */,
+				C10B95792D33EA7A002764EB /* Frameworks */,
+				C10B957A2D33EA7A002764EB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C10B95452D33E98F002764EB /* PBXTargetDependency */,
+				C10B957E2D33EA7A002764EB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				C10B95462D33E98F002764EB /* RudoTests */,
+				C10B957F2D33EA7A002764EB /* rudo_archetypeTests */,
 			);
-			name = RudoTests;
+			name = rudo_archetypeTests;
 			packageProductDependencies = (
 			);
-			productName = RudoTests;
-			productReference = C10B95432D33E98F002764EB /* RudoTests.xctest */;
+			productName = rudo_archetypeTests;
+			productReference = C10B957C2D33EA7A002764EB /* rudo_archetypeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C10B954C2D33E98F002764EB /* RudoUITests */ = {
+		C10B95852D33EA7A002764EB /* rudo_archetypeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C10B955D2D33E98F002764EB /* Build configuration list for PBXNativeTarget "RudoUITests" */;
+			buildConfigurationList = C10B95962D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetypeUITests" */;
 			buildPhases = (
-				C10B95492D33E98F002764EB /* Sources */,
-				C10B954A2D33E98F002764EB /* Frameworks */,
-				C10B954B2D33E98F002764EB /* Resources */,
+				C10B95822D33EA7A002764EB /* Sources */,
+				C10B95832D33EA7A002764EB /* Frameworks */,
+				C10B95842D33EA7A002764EB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C10B954F2D33E98F002764EB /* PBXTargetDependency */,
+				C10B95882D33EA7A002764EB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				C10B95502D33E98F002764EB /* RudoUITests */,
+				C10B95892D33EA7A002764EB /* rudo_archetypeUITests */,
 			);
-			name = RudoUITests;
+			name = rudo_archetypeUITests;
 			packageProductDependencies = (
 			);
-			productName = RudoUITests;
-			productReference = C10B954D2D33E98F002764EB /* RudoUITests.xctest */;
+			productName = rudo_archetypeUITests;
+			productReference = C10B95862D33EA7A002764EB /* rudo_archetypeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C10B95282D33E98D002764EB /* Project object */ = {
+		C10B95612D33EA78002764EB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					C10B952F2D33E98D002764EB = {
+					C10B95682D33EA78002764EB = {
 						CreatedOnToolsVersion = 16.1;
 					};
-					C10B95422D33E98F002764EB = {
+					C10B957B2D33EA7A002764EB = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = C10B952F2D33E98D002764EB;
+						TestTargetID = C10B95682D33EA78002764EB;
 					};
-					C10B954C2D33E98F002764EB = {
+					C10B95852D33EA7A002764EB = {
 						CreatedOnToolsVersion = 16.1;
-						TestTargetID = C10B952F2D33E98D002764EB;
+						TestTargetID = C10B95682D33EA78002764EB;
 					};
 				};
 			};
-			buildConfigurationList = C10B952B2D33E98D002764EB /* Build configuration list for PBXProject "Rudo" */;
+			buildConfigurationList = C10B95642D33EA78002764EB /* Build configuration list for PBXProject "rudo_archetype" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = C10B95272D33E98D002764EB;
+			mainGroup = C10B95602D33EA78002764EB;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C10B95312D33E98D002764EB /* Products */;
+			productRefGroup = C10B956A2D33EA78002764EB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C10B952F2D33E98D002764EB /* Rudo */,
-				C10B95422D33E98F002764EB /* RudoTests */,
-				C10B954C2D33E98F002764EB /* RudoUITests */,
+				C10B95682D33EA78002764EB /* rudo_archetype */,
+				C10B957B2D33EA7A002764EB /* rudo_archetypeTests */,
+				C10B95852D33EA7A002764EB /* rudo_archetypeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C10B952E2D33E98D002764EB /* Resources */ = {
+		C10B95672D33EA78002764EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B95412D33E98F002764EB /* Resources */ = {
+		C10B957A2D33EA7A002764EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B954B2D33E98F002764EB /* Resources */ = {
+		C10B95842D33EA7A002764EB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C10B952C2D33E98D002764EB /* Sources */ = {
+		C10B95652D33EA78002764EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B953F2D33E98F002764EB /* Sources */ = {
+		C10B95782D33EA7A002764EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C10B95492D33E98F002764EB /* Sources */ = {
+		C10B95822D33EA7A002764EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C10B95452D33E98F002764EB /* PBXTargetDependency */ = {
+		C10B957E2D33EA7A002764EB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C10B952F2D33E98D002764EB /* Rudo */;
-			targetProxy = C10B95442D33E98F002764EB /* PBXContainerItemProxy */;
+			target = C10B95682D33EA78002764EB /* rudo_archetype */;
+			targetProxy = C10B957D2D33EA7A002764EB /* PBXContainerItemProxy */;
 		};
-		C10B954F2D33E98F002764EB /* PBXTargetDependency */ = {
+		C10B95882D33EA7A002764EB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C10B952F2D33E98D002764EB /* Rudo */;
-			targetProxy = C10B954E2D33E98F002764EB /* PBXContainerItemProxy */;
+			target = C10B95682D33EA78002764EB /* rudo_archetype */;
+			targetProxy = C10B95872D33EA7A002764EB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		C10B95552D33E98F002764EB /* Debug */ = {
+		C10B958E2D33EA7A002764EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 			};
 			name = Debug;
 		};
-		C10B95562D33E98F002764EB /* Release */ = {
+		C10B958F2D33EA7A002764EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,15 +383,15 @@
 			};
 			name = Release;
 		};
-		C10B95582D33E98F002764EB /* Debug */ = {
+		C10B95912D33EA7A002764EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Rudo/Rudo.entitlements;
+				CODE_SIGN_ENTITLEMENTS = rudo_archetype/rudo_archetype.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Rudo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"rudo_archetype/Preview Content\"";
 				DEVELOPMENT_TEAM = R88CDNMKLQ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -411,7 +411,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.Rudo;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetype";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -422,15 +422,15 @@
 			};
 			name = Debug;
 		};
-		C10B95592D33E98F002764EB /* Release */ = {
+		C10B95922D33EA7A002764EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Rudo/Rudo.entitlements;
+				CODE_SIGN_ENTITLEMENTS = rudo_archetype/rudo_archetype.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Rudo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"rudo_archetype/Preview Content\"";
 				DEVELOPMENT_TEAM = R88CDNMKLQ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -450,7 +450,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.Rudo;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetype";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -461,7 +461,7 @@
 			};
 			name = Release;
 		};
-		C10B955B2D33E98F002764EB /* Debug */ = {
+		C10B95942D33EA7A002764EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -472,19 +472,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.RudoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetypeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rudo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rudo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rudo_archetype.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rudo_archetype";
 				XROS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Debug;
 		};
-		C10B955C2D33E98F002764EB /* Release */ = {
+		C10B95952D33EA7A002764EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -495,19 +495,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.RudoTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetypeTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Rudo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Rudo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rudo_archetype.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/rudo_archetype";
 				XROS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Release;
 		};
-		C10B955E2D33E98F002764EB /* Debug */ = {
+		C10B95972D33EA7A002764EB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -517,19 +517,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.RudoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetypeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = Rudo;
+				TEST_TARGET_NAME = rudo_archetype;
 				XROS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Debug;
 		};
-		C10B955F2D33E98F002764EB /* Release */ = {
+		C10B95982D33EA7A002764EB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -539,14 +539,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = es.rudo.archetype.RudoUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "es.rudo.archetype.rudo-archetypeUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = Rudo;
+				TEST_TARGET_NAME = rudo_archetype;
 				XROS_DEPLOYMENT_TARGET = 2.1;
 			};
 			name = Release;
@@ -554,43 +554,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C10B952B2D33E98D002764EB /* Build configuration list for PBXProject "Rudo" */ = {
+		C10B95642D33EA78002764EB /* Build configuration list for PBXProject "rudo_archetype" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C10B95552D33E98F002764EB /* Debug */,
-				C10B95562D33E98F002764EB /* Release */,
+				C10B958E2D33EA7A002764EB /* Debug */,
+				C10B958F2D33EA7A002764EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C10B95572D33E98F002764EB /* Build configuration list for PBXNativeTarget "Rudo" */ = {
+		C10B95902D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetype" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C10B95582D33E98F002764EB /* Debug */,
-				C10B95592D33E98F002764EB /* Release */,
+				C10B95912D33EA7A002764EB /* Debug */,
+				C10B95922D33EA7A002764EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C10B955A2D33E98F002764EB /* Build configuration list for PBXNativeTarget "RudoTests" */ = {
+		C10B95932D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetypeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C10B955B2D33E98F002764EB /* Debug */,
-				C10B955C2D33E98F002764EB /* Release */,
+				C10B95942D33EA7A002764EB /* Debug */,
+				C10B95952D33EA7A002764EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C10B955D2D33E98F002764EB /* Build configuration list for PBXNativeTarget "RudoUITests" */ = {
+		C10B95962D33EA7A002764EB /* Build configuration list for PBXNativeTarget "rudo_archetypeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C10B955E2D33E98F002764EB /* Debug */,
-				C10B955F2D33E98F002764EB /* Release */,
+				C10B95972D33EA7A002764EB /* Debug */,
+				C10B95982D33EA7A002764EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C10B95282D33E98D002764EB /* Project object */;
+	rootObject = C10B95612D33EA78002764EB /* Project object */;
 }

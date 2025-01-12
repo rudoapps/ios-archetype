@@ -1,13 +1,13 @@
 //
-//  RudoUITests.swift
-//  RudoUITests
+//  rudo_archetypeUITests.swift
+//  rudo_archetypeUITests
 //
 //  Created by Fernando Salom Carratala on 12/1/25.
 //
 
 import XCTest
 
-final class RudoUITests: XCTestCase {
+final class rudo_archetypeUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
